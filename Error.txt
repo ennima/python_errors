@@ -1,0 +1,40 @@
+------- [2020-04-25 00:30:15.118346]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: <class 'NameError'>]: name 'd' is not defined 
+Line: 24
+
+------- [2020-04-25 00:30:32.766263]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: <class 'NameError'>]: name 'd' is not defined 
+Line: 24
+
+------- [2020-04-25 00:31:27.415824]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: <class 'type'>]: name 'd' is not defined 
+Line: 24
+
+------- [2020-04-25 00:31:40.288996]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: <class 'type'>]: name 'd' is not defined 
+Line: 24
+
+------- [2020-04-25 00:32:11.355915]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: <class 'NameError'>]: name 'd' is not defined 
+Line: 24
+
+------- [2020-04-25 00:35:07.085420]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: type]: name 'd' is not defined 
+Line: 25
+
+------- [2020-04-25 00:35:18.868202]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: NameError]: name 'd' is not defined 
+Line: 25
+
+------- [2020-04-25 00:35:24.575273]:
+File: /Users/ennima/Desktop/Learning/Py/Errors/errors.py
+[Error: NameError]: name 'd' is not defined 
+Line: 24
+
